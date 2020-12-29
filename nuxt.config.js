@@ -3,7 +3,7 @@ export default {
   mode: 'universal',
 
   head: {
-    title: 'task',
+    title: 'admin-panel',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
